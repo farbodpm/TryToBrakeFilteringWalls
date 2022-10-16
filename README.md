@@ -24,3 +24,6 @@ May be you should create Vcore directory and then extract the files in to the fo
 and know you can add all vpns here and manage them. if U need piaz send me an email to share you some linkes.
 
 Good Luck
+
+
+#in windows you may have problem openning the 1089 port. got to Prefrences/ Inbound Settings and change the port to a a number bigger than 2000. I used 121222 and it worked for me.
